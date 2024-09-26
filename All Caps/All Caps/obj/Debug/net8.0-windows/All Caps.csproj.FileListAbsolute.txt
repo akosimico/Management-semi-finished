@@ -1,0 +1,33 @@
+C:\Users\Jhay-Ar Barnedo 999\source\repos\All Caps\All Caps\bin\Debug\net8.0-windows\All Caps.exe
+C:\Users\Jhay-Ar Barnedo 999\source\repos\All Caps\All Caps\bin\Debug\net8.0-windows\All Caps.deps.json
+C:\Users\Jhay-Ar Barnedo 999\source\repos\All Caps\All Caps\bin\Debug\net8.0-windows\All Caps.runtimeconfig.json
+C:\Users\Jhay-Ar Barnedo 999\source\repos\All Caps\All Caps\bin\Debug\net8.0-windows\All Caps.dll
+C:\Users\Jhay-Ar Barnedo 999\source\repos\All Caps\All Caps\bin\Debug\net8.0-windows\All Caps.pdb
+C:\Users\Jhay-Ar Barnedo 999\source\repos\All Caps\All Caps\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\Jhay-Ar Barnedo 999\source\repos\All Caps\All Caps\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Jhay-Ar Barnedo 999\source\repos\All Caps\All Caps\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\Jhay-Ar Barnedo 999\source\repos\All Caps\All Caps\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Jhay-Ar Barnedo 999\source\repos\All Caps\All Caps\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Jhay-Ar Barnedo 999\source\repos\All Caps\All Caps\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Jhay-Ar Barnedo 999\source\repos\All Caps\All Caps\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jhay-Ar Barnedo 999\source\repos\All Caps\All Caps\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jhay-Ar Barnedo 999\source\repos\All Caps\All Caps\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Jhay-Ar Barnedo 999\source\repos\All Caps\All Caps\obj\Debug\net8.0-windows\All Caps.csproj.AssemblyReference.cache
+C:\Users\Jhay-Ar Barnedo 999\source\repos\All Caps\All Caps\obj\Debug\net8.0-windows\All_Caps.Form1.resources
+C:\Users\Jhay-Ar Barnedo 999\source\repos\All Caps\All Caps\obj\Debug\net8.0-windows\All_Caps.ProductForm.resources
+C:\Users\Jhay-Ar Barnedo 999\source\repos\All Caps\All Caps\obj\Debug\net8.0-windows\All_Caps.Properties.Resources.resources
+C:\Users\Jhay-Ar Barnedo 999\source\repos\All Caps\All Caps\obj\Debug\net8.0-windows\All_Caps.Sales.resources
+C:\Users\Jhay-Ar Barnedo 999\source\repos\All Caps\All Caps\obj\Debug\net8.0-windows\All Caps.csproj.GenerateResource.cache
+C:\Users\Jhay-Ar Barnedo 999\source\repos\All Caps\All Caps\obj\Debug\net8.0-windows\All Caps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhay-Ar Barnedo 999\source\repos\All Caps\All Caps\obj\Debug\net8.0-windows\All Caps.AssemblyInfoInputs.cache
+C:\Users\Jhay-Ar Barnedo 999\source\repos\All Caps\All Caps\obj\Debug\net8.0-windows\All Caps.AssemblyInfo.cs
+C:\Users\Jhay-Ar Barnedo 999\source\repos\All Caps\All Caps\obj\Debug\net8.0-windows\All Caps.csproj.CoreCompileInputs.cache
+C:\Users\Jhay-Ar Barnedo 999\source\repos\All Caps\All Caps\obj\Debug\net8.0-windows\All Caps.csproj.Up2Date
+C:\Users\Jhay-Ar Barnedo 999\source\repos\All Caps\All Caps\obj\Debug\net8.0-windows\All Caps.dll
+C:\Users\Jhay-Ar Barnedo 999\source\repos\All Caps\All Caps\obj\Debug\net8.0-windows\refint\All Caps.dll
+C:\Users\Jhay-Ar Barnedo 999\source\repos\All Caps\All Caps\obj\Debug\net8.0-windows\All Caps.pdb
+C:\Users\Jhay-Ar Barnedo 999\source\repos\All Caps\All Caps\obj\Debug\net8.0-windows\All Caps.genruntimeconfig.cache
+C:\Users\Jhay-Ar Barnedo 999\source\repos\All Caps\All Caps\obj\Debug\net8.0-windows\ref\All Caps.dll
+C:\Users\Jhay-Ar Barnedo 999\source\repos\All Caps\All Caps\obj\Debug\net8.0-windows\All_Caps.ExpensesFrm.resources
+C:\Users\Jhay-Ar Barnedo 999\source\repos\All Caps\All Caps\obj\Debug\net8.0-windows\All_Caps.InventoryFrm.resources
+C:\Users\Jhay-Ar Barnedo 999\source\repos\All Caps\All Caps\obj\Debug\net8.0-windows\All_Caps.SalesFrm.resources
